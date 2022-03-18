@@ -1,0 +1,3 @@
+﻿  player.cpp
+C:\Users\st\source\repos\Dino\Dino\player.cpp(8,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Dino.vcxproj -> C:\Users\st\source\repos\Dino\Debug\Dino.exe
